@@ -1,5 +1,4 @@
 # DesignPattern
-
 Final Project for Design Pattern Class
 
 ### Coffee Maker Project
